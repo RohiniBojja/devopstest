@@ -1,2 +1,1 @@
-git merge for test
-new test to test merge
+new file to test
