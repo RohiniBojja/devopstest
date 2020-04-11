@@ -1,1 +1,2 @@
-new file to test
+git merge for test
+new file merge to test merge
