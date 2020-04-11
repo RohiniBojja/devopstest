@@ -1,1 +1,2 @@
 git merge for test
+new line to test merge
